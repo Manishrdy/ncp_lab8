@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pokemon>
+  <row id="pk01">
+    <Name>Bulbasaur</Name>
+    <Type1>Grass</Type1>
+    <Type2>Poison</Type2>
+    <HP>45</HP>
+    <Attack>49</Attack>
+    <Defense>49</Defense>
+    <spatk>65</spatk>
+    <spdef>65</spdef>
+    <Speed>45</Speed>
+    <Generation>1</Generation>
+    <Legendary>False</Legendary>
+    <Total>318</Total>
+  </row>
+  <row id="pk02">
+    <Name>Ivysaur</Name>
+    <Type1>Grass</Type1>
+    <Type2>Poison</Type2>
+    <HP>60</HP>
+    <Attack>62</Attack>
+    <Defense>63</Defense>
+    <spatk>80</spatk>
+    <spdef>80</spdef>
+    <Speed>60</Speed>
+    <Generation>1</Generation>
+    <Legendary>False</Legendary>
+    <Total>405</Total>
+  </row>
+  <row id="pk03">
+    <Name>Venusaur</Name>
+    <Type1>Grass</Type1>
+    <Type2>Poison</Type2>
+    <HP>80</HP>
+    <Attack>82</Attack>
+    <Defense>83</Defense>
+    <spatk>100</spatk>
+    <spdef>100</spdef>
+    <Speed>80</Speed>
+    <Generation>1</Generation>
+    <Legendary>False</Legendary>
+    <Total>525</Total>
+  </row>
+  <row id="pk04">
+    <Name>VenusaurMega Venusaur</Name>
+    <Type1>Grass</Type1>
+    <Type2>Poison</Type2>
+    <HP>80</HP>
+    <Attack>100</Attack>
+    <Defense>123</Defense>
+    <spatk>122</spatk>
+    <spdef>120</spdef>
+    <Speed>80</Speed>
+    <Generation>1</Generation>
+    <Legendary>False</Legendary>
+    <Total>625</Total>
+  </row>
+  <row id="pk05">
+    <Name>Charmander</Name>
+    <Type1>Fire</Type1>
+    <Type2></Type2>
+    <HP>39</HP>
+    <Attack>52</Attack>
+    <Defense>43</Defense>
+    <spatk>60</spatk>
+    <spdef>50</spdef>
+    <Speed>65</Speed>
+    <Generation>1</Generation>
+    <Legendary>False</Legendary>
+    <Total>309</Total>
+  </row>
+  <row id="pk06">
+    <Name>Charmeleon</Name>
+    <Type1>Fire</Type1>
+    <Type2></Type2>
+    <HP>58</HP>
+    <Attack>64</Attack>
+    <Defense>58</Defense>
+    <spatk>80</spatk>
+    <spdef>65</spdef>
+    <Speed>80</Speed>
+    <Generation>1</Generation>
+    <Legendary>False</Legendary>
+    <Total>405</Total>
+  </row>
+  <row id="pk07">
+    <Name>Charizard</Name>
+    <Type1>Fire</Type1>
+    <Type2>Flying</Type2>
+    <HP>78</HP>
+    <Attack>84</Attack>
+    <Defense>78</Defense>
+    <spatk>109</spatk>
+    <spdef>85</spdef>
+    <Speed>100</Speed>
+    <Generation>1</Generation>
+    <Legendary>False</Legendary>
+    <Total>534</Total>
+  </row>
+  <row id="pk08">
+    <Name>CharizardMega Charizard X</Name>
+    <Type1>Fire</Type1>
+    <Type2>Dragon</Type2>
+    <HP>78</HP>
+    <Attack>130</Attack>
+    <Defense>111</Defense>
+    <spatk>130</spatk>
+    <spdef>85</spdef>
+    <Speed>100</Speed>
+    <Generation>1</Generation>
+    <Legendary>False</Legendary>
+    <Total>634</Total>
+  </row>
+  <row id="pk09">
+    <Name>CharizardMega Charizard Y</Name>
+    <Type1>Fire</Type1>
+    <Type2>Flying</Type2>
+    <HP>78</HP>
+    <Attack>104</Attack>
+    <Defense>78</Defense>
+    <spatk>159</spatk>
+    <spdef>115</spdef>
+    <Speed>100</Speed>
+    <Generation>1</Generation>
+    <Legendary>False</Legendary>
+    <Total>634</Total>
+  </row>
+  <row id="pk10">
+    <Name>Squirtle</Name>
+    <Type1>Water</Type1>
+    <Type2></Type2>
+    <HP>44</HP>
+    <Attack>48</Attack>
+    <Defense>65</Defense>
+    <spatk>50</spatk>
+    <spdef>64</spdef>
+    <Speed>43</Speed>
+    <Generation>1</Generation>
+    <Legendary>False</Legendary>
+    <Total>314</Total>
+  </row>
+  <row id="pk11">
+    <Name>Wartortle</Name>
+    <Type1>Water</Type1>
+    <Type2></Type2>
+    <HP>59</HP>
+    <Attack>63</Attack>
+    <Defense>80</Defense>
+    <spatk>65</spatk>
+    <spdef>80</spdef>
+    <Speed>58</Speed>
+    <Generation>1</Generation>
+    <Legendary>False</Legendary>
+    <Total>405</Total>
+  </row>
+  <row id="pk12">
+    <Name>Blastoise</Name>
+    <Type1>Water</Type1>
+    <Type2></Type2>
+    <HP>79</HP>
+    <Attack>83</Attack>
+    <Defense>100</Defense>
+    <spatk>85</spatk>
+    <spdef>105</spdef>
+    <Speed>78</Speed>
+    <Generation>1</Generation>
+    <Legendary>False</Legendary>
+    <Total>530</Total>
+  </row>
+  <row id="pk13">
+    <Name>BlastoiseMega Blastoise</Name>
+    <Type1>Water</Type1>
+    <Type2></Type2>
+    <HP>79</HP>
+    <Attack>103</Attack>
+    <Defense>120</Defense>
+    <spatk>135</spatk>
+    <spdef>115</spdef>
+    <Speed>78</Speed>
+    <Generation>1</Generation>
+    <Legendary>False</Legendary>
+    <Total>630</Total>
+  </row>
+  <row id="pk14">
+    <Name>Caterpie</Name>
+    <Type1>Bug</Type1>
+    <Type2></Type2>
+    <HP>45</HP>
+    <Attack>30</Attack>
+    <Defense>35</Defense>
+    <spatk>20</spatk>
+    <spdef>20</spdef>
+    <Speed>45</Speed>
+    <Generation>1</Generation>
+    <Legendary>False</Legendary>
+    <Total>195</Total>
+  </row>
+  <row id="pk15">
+    <Name>Metapod</Name>
+    <Type1>Bug</Type1>
+    <Type2></Type2>
+    <HP>50</HP>
+    <Attack>20</Attack>
+    <Defense>55</Defense>
+    <spatk>25</spatk>
+    <spdef>25</spdef>
+    <Speed>30</Speed>
+    <Generation>1</Generation>
+    <Legendary>False</Legendary>
+    <Total>205</Total>
+  </row>
+  <row id="pk16">
+    <Name>Butterfree</Name>
+    <Type1>Bug</Type1>
+    <Type2>Flying</Type2>
+    <HP>60</HP>
+    <Attack>45</Attack>
+    <Defense>50</Defense>
+    <spatk>90</spatk>
+    <spdef>80</spdef>
+    <Speed>70</Speed>
+    <Generation>1</Generation>
+    <Legendary>False</Legendary>
+    <Total>395</Total>
+  </row>
+  <row id="pk17">
+    <Name>Weedle</Name>
+    <Type1>Bug</Type1>
+    <Type2>Poison</Type2>
+    <HP>40</HP>
+    <Attack>35</Attack>
+    <Defense>30</Defense>
+    <spatk>20</spatk>
+    <spdef>20</spdef>
+    <Speed>50</Speed>
+    <Generation>1</Generation>
+    <Legendary>False</Legendary>
+    <Total>195</Total>
+  </row>
+  <row id="pk18">
+    <Name>Kakuna</Name>
+    <Type1>Bug</Type1>
+    <Type2>Poison</Type2>
+    <HP>45</HP>
+    <Attack>25</Attack>
+    <Defense>50</Defense>
+    <spatk>25</spatk>
+    <spdef>25</spdef>
+    <Speed>35</Speed>
+    <Generation>1</Generation>
+    <Legendary>False</Legendary>
+    <Total>205</Total>
+  </row>
+  <row id="pk19">
+    <Name>Beedrill</Name>
+    <Type1>Bug</Type1>
+    <Type2>Poison</Type2>
+    <HP>65</HP>
+    <Attack>90</Attack>
+    <Defense>40</Defense>
+    <spatk>45</spatk>
+    <spdef>80</spdef>
+    <Speed>75</Speed>
+    <Generation>1</Generation>
+    <Legendary>False</Legendary>
+    <Total>395</Total>
+  </row>
+</pokemon>
